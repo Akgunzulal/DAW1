@@ -1,0 +1,7 @@
+SELECT TOP (1000) [BookId]
+      ,[Title]
+      ,[ISBN]
+      ,[PublishedDate]
+      ,[PublisherId]
+      ,[AuthorId]
+  FROM [DAW24L].[dbo].[Books]

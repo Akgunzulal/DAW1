@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CurrencyId]
+      ,[Name]
+      ,[ShortName]
+      ,[Visible]
+  FROM [DAW24L].[dbo].[Currencies]

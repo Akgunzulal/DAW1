@@ -1,0 +1,5 @@
+SELECT TOP (1000) [OfferId]
+      ,[BookId]
+      ,[PromoText]
+      ,[SpecialPrice]
+  FROM [DAW24L].[dbo].[BookOffers]
